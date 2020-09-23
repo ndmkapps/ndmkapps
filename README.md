@@ -2,9 +2,11 @@
 #### NDMK Apps Pvt. Ltd.4
 ##### Web Development Company in Bandipora, J&K
 
+- 📫 How to reach us: ndmk.official@gmail.com
+
 <img src="https://avatars0.githubusercontent.com/u/71745341?s=460&u=b57c3668035514b7ab18542acbb0bb84852c8e4f&v=4" width="100" title="">
 
-- 📫 How to reach us: ndmk.official@gmail.com
+
 
 
 
