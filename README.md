@@ -1,5 +1,6 @@
 
-<img src="https://avatars0.githubusercontent.com/u/71745341?s=460&u=b57c3668035514b7ab18542acbb0bb84852c8e4f&v=4" width="50" title="">
+<!-- <img src="https://avatars0.githubusercontent.com/u/71745341?s=460&u=b57c3668035514b7ab18542acbb0bb84852c8e4f&v=4" width="50" title=""> -->
+
 ### Hello World ! 👋
 #### NDMK Apps Pvt. Ltd.
 ##### Web Development Company in Bandipora, Jammu & Kashmir
