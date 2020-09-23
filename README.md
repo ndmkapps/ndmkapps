@@ -1,6 +1,6 @@
 ### Hello World ! 👋
 #### NDMK Apps Pvt. Ltd.4
-##### Web Development Company in Bandipora, J&K
+##### Web Development Company in Bandipora, Jammu & Kashmir
 - 🔭 Android App Development, Website Development & Graphic Design
 - 📫 How to reach us: ndmk.official@gmail.com
 
